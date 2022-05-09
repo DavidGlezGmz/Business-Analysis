@@ -5,3 +5,11 @@ Business analysis is used to identify and articulate the need for change in how 
 We have the specialized knowledge to act as a guide and lead the business through unknown or unmapped territory, to get it to its desired destination. The value of business analysis is in realization of benefits, avoidance of cost, identification of new opportunities, understanding of required capabilities and modeling the organization. Through the effective use of business analysis, we can ensure an organization realizes these benefits, ultimately improving the way they do business.
 
 (From: International Institute of Business Analysis: https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/).
+
+## Bike-Sharing
+
+'Travel Along' is a new bike-sharing company and wants to expand its customer count and provide better services at a reasonable cost. They have conducted several surveys and collated the data about weather, weekends, holidays, etc. from the past 2 years.
+
+As a recently hired data scientist at 'Travel Along', you have been asked to analyze the patterns in the data and figure out the key areas which can help the organization to grow and manage the customer demands. Further, you need to use this information to predict the count of bikes shared so that the company can take prior decisions for surge hours.
+
+![image](https://user-images.githubusercontent.com/86708470/167494640-0fe690fd-dbf3-48ca-ba5a-dfde1230ab06.png)
