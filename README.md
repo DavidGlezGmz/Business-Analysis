@@ -12,4 +12,4 @@ We have the specialized knowledge to act as a guide and lead the business throug
 
 As a recently hired data scientist at 'Travel Along', you have been asked to analyze the patterns in the data and figure out the key areas which can help the organization to grow and manage the customer demands. Further, you need to use this information to predict the count of bikes shared so that the company can take prior decisions for surge hours.
 
-![image](https://user-images.githubusercontent.com/86708470/167494640-0fe690fd-dbf3-48ca-ba5a-dfde1230ab06.png)
+![image](https://user-images.githubusercontent.com/86708470/167495059-2699e5ec-a553-48fb-a7f4-ec2131bcad57.png)
